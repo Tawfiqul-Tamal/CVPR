@@ -1,5 +1,5 @@
 
-## 🚀 Try it on Google Colab
+##  Try it on Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tawfiqul-Tamal/CVPR/blob/main/CVPR%20MID%20Assignment/CNN_23_52978_3.ipynb)
 
