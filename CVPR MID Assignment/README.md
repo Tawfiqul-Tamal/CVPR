@@ -1,9 +1,7 @@
 # 🌿 Plant Disease Classification using Custom CNN
-
 A custom Convolutional Neural Network (CNN) built with PyTorch to classify plant leaf images into **38 categories** (healthy vs. diseased) across **14 crop species**, developed as part of the **CVPR Mid Assignment (Summer 25-26)**.
 
 ---
-
 ## 📌 Project Overview
 
 Crop diseases are among the leading causes of yield loss in agriculture, and manual scouting is slow, subjective, and doesn't scale. This project builds an end-to-end deep learning pipeline — from data loading and augmentation to training, evaluation, and model persistence — to automatically detect plant diseases from leaf images.
