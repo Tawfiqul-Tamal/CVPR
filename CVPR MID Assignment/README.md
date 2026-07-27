@@ -94,6 +94,7 @@ The test set is never used during training or hyperparameter tuning, ensuring an
 ├── CNN_<StudentID>.ipynb        # Full notebook: data loading, training, evaluation
 ├── plant_disease_cnn_final.pth  # Trained model weights (<20MB)
 ├── README.md                    # This file
+
 ```
 
 ---
