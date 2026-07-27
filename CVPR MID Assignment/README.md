@@ -1,3 +1,9 @@
+
+## 🚀 Try it on Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tawfiqul-Tamal/CVPR/blob/main/CVPR%20MID%20Assignment/CNN_23_52978_3.ipynb)
+
+
 # 🌿 Plant Disease Classification using Custom CNN
 A custom Convolutional Neural Network (CNN) built with PyTorch to classify plant leaf images into **38 categories** (healthy vs. diseased) across **14 crop species**, developed as part of the **CVPR Mid Assignment (Summer 25-26)**.
 
