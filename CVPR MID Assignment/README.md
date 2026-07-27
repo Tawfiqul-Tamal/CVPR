@@ -17,7 +17,6 @@ Crop diseases are among the leading causes of yield loss in agriculture, and man
 | **Domain** | Agriculture / Precision Farming |
 
 ---
-
 ## 📂 Dataset
 
 **New Plant Diseases Dataset (Augmented)** — an augmented, re-organized version of the widely-used PlantVillage dataset.
